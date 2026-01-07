@@ -1,1 +1,1 @@
-import RAJA_g.py
+import RAJA_g
